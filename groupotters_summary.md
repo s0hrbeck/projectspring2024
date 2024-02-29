@@ -1,6 +1,6 @@
-#Analysing the PAD-UFES-20 dataset 
+# Analysing the PAD-UFES-20 dataset 
 
-##Overview of the dataset contents 
+## Overview of the dataset contents 
 
 The provided data is from a Brazilian nonprofit program that provides free skin lesion treatment. Collected along with the Programa de Assistência Dermatológica e Cirurgica (PAD) at Universidade Federal do Espírito Santo (UFES-Brazil). 
 
@@ -10,10 +10,10 @@ There are seven types of lesions presented in the dataset: Basal Cell Carcinoma 
 
 Due to the method of clinical diagnosis, the skin cancers generally being biopsy proven, whilst the skin diseases being diagnosed through consensus of clinical experts; 58% of the samples in the dataset are biopsy proven.1 
 
-##Background to the diagnoses presented
+## Background to the diagnoses presented
 
 
-##Critique of data
+## Critique of data
 
-##References
+## References
 
