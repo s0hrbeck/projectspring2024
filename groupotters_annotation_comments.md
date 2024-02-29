@@ -22,6 +22,19 @@ There’s multiple lesions and multiple pen marks. In one place it looks like th
 PAT_91_356_74 
 There’s multiple lesions and multiple pen marks. In one place it looks like there is pen marks on a lesion.
 
+## a2
+
+PAT_579_1099_551
+lots of hair in the way of lesion
+
+PAT_650_1230_636
+nearby discolouration is hard to distinguish whether part of the lesion or not, included in segmentation regardless
+
+PAT_721_1365_819
+lesion edges unclear due to pen marking the outline
+
+PAT_747_1408_742
+hair in the way of lesion
 
 ## a4
 
