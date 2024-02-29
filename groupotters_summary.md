@@ -1,1 +1,10 @@
-# A 1-2 page summary of the otters groups findings
+#Analysing the PAD-UFES-20 dataset
+
+##Overview of the dataset contents
+
+
+##Background to the diagnoses presented
+
+
+##Critique of data
+
