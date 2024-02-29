@@ -22,6 +22,14 @@ SEK, also referred to as Seborrheic warts, are common, benign hyperkeratotic ski
 
 NEV are extremely common and can be divided into many subtypes and groups. Some types are so prevalent, that they are often not considered to be an abnormality. The most common are Intradermal naevi, more commonly known as moles. Naevi tend to have a similar level of pigmentation to the surrounding skin, can be raised from the surface of the skin to various degrees, and most commonly stay below 1cm in diameter. They may be associated with hair growth, particularly with advanced aged. They are generally only clinically investigated when a differential diagnosis is suspected.5
 
+The three skin cancers are: Basal Cell Carcinoma (BCC), Squamous Cell Carcinoma (SCC), and Melanoma (MEL). These are diagnosed via biopsy.1 
+
+BCC is the most common type of carcinoma worldwide.6 There are various risk factors, such as sun exposure, lighter skin types, increased age, and genetic predisposition etc. Lesions begin small, translucent, and have raised areas covered by small blood vessels. Later they can present in various ways. Nodular types are visually an exaggerated presentation of early BCC lesions commonly on the face. Superficial; which tend to present in plural, be larger and slowly grow over time. Morphoeic; usually found on the area in the face between the eyes and lips, characterised by thickened yellowish plaques. Pigmented; brown, blue or greyish in colour, seen more often in patients with darker skin tones. Basosquamous; as the name suggests, this type is a mix of BCC and SCC.7 
+
+SCC is the second most common skin cancer (behind BCC). Incidence is higher in men, rises with age, and with ultraviolet radiation exposure. Lesions vary widely in clinical appearance, they can appear as a small nodule that enlarges, as the centre of the nodule becomes a pitted open wound, from which bleeding can occur.8 
+
+MEL is difficult to visually differentiate from other lesions, which leads to biopsy proven diagnosis after clinician suspicion. MEL grows in areas of fresh skin, beginning in a similar fashion to the more common moles (benign melanocytic naevi). Melanomas can be characterised by their growth pattern, there are four clinical types of skin melanoma, which all show growth either laterally or vertically (or both) through the skin and surrounding tissue. Similarly to other lesions, MEL risk is increased by sun exposure, lighter skin types, and age amongst other factors. Clinical referral for biopsy is based on seven factors: change in size, shape and colour, size more than 7mm, inflammation, oozing and sensation changes.^9 
+
 ## Critique of data
 
 ## References
@@ -35,3 +43,11 @@ NEV are extremely common and can be divided into many subtypes and groups. Some 
 4.	https://patient.info/doctor/seborrhoeic-wart
 
 5.	https://patient.info/doctor/intradermal-and-compound-naevi
+
+6.	Dika E, Scarfì F, Ferracin M, Broseghini E, Marcelli E, Bortolani B, Campione E, Riefolo M, Ricci C, Lambertini M. Basal Cell Carcinoma: A Comprehensive Review. Int J Mol Sci. 2020 Aug 4;21(15):5572. doi: 10.3390/ijms21155572. PMID: 32759706; PMCID: PMC7432343.
+   
+7.	https://patient.info/doctor/basal-cell-carcinoma
+
+8.	https://patient.info/doctor/squamous-cell-carcinoma-of-skin
+
+9.	https://patient.info/doctor/malignant-melanoma-of-skin 
