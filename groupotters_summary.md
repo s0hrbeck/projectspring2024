@@ -16,3 +16,7 @@ Due to the method of clinical diagnosis, the skin cancers generally being biopsy
 ## Critique of data
 
 ## References
+
+1. Pacheco, Andre G. C.; Lima, Gustavo R.; Salomão, Amanda S.; Krohling, Breno; Biral, Igor P.; de Angelo, Gabriel G. ; Alves Jr, Fábio  C. R. ; Esgario, José G. M.; Simora, Alana C. ; Castro, Pedro B. C. ; Rodrigues, Felipe B.; Frasson, Patricia H. L. ; Krohling, Renato A.; Knidel, Helder ; Santos, Maria C. S. ; Espírito Santo, Rachel B.; Macedo, Telma L. S. G.; Canuto, Tania R. P. ; de Barros, Luíz F. S. (2020), “PAD-UFES-20: a skin lesion dataset composed of patient data and clinical images collected from smartphones”, Mendeley Data, V1, doi: 10.17632/zr7vgbcyr2.1 
+
+2. Andre G.C. Pacheco, Renato A. Krohling, The impact of patient clinical information on automated skin cancer detection, Computers in Biology and Medicine, Volume 116, 2020, 103545, ISSN 0010-4825, https://doi.org/10.1016/j.compbiomed.2019.103545.
