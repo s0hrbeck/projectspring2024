@@ -16,4 +16,3 @@ Due to the method of clinical diagnosis, the skin cancers generally being biopsy
 ## Critique of data
 
 ## References
-
