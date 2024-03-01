@@ -32,6 +32,12 @@ MEL is difficult to visually differentiate from other lesions, which leads to bi
 
 ## Critique of data
 
+The source of the provided data has made it clear that the sample population includes people in a low-income bracket that do not receive private treatment1. In general, with patient data, this increased access can be assumed to imply greater representation of the general population. Implications of this methodology should be positive when attempting to generalise findings for a new population sample.<sup>10<sup>
+
+The dataset description states that the images have been collected using different smartphone devices. This would also reduce barrier to inclusion in the dataset, in that a simple user designed interface is more likely to be able to be used than some more complex technology. On top of the knowledge that the data collectors themselves are educated clinicians. However, the sizes of the images vary according to the devices used in collection. More specifically, we have found issues with the images such as: image resolution that makes identifying the lesion unclear, difficulty in identifying what is lesion and what is normal skin (due to various factors, e.g. skin tone and limited clinical knowledge), dark hair obscuring the view of the lesion etc. Further and more detailed annotation related to specific images can be found in our annotations document “groupotters_annotation_comments.md” within the GitHub repository. Some key repeated issues with annotation are that the lesions in the images are unclear to an untrained eye. This could be due to clinical inexperience but is also arguably due to the unclear nature of some of the images. Collection by more tailored technical equipment may reduce the issue of clarity. Occasionally we have had to entirely skip the segmentation of certain images due to a lack of clarity. These have been noted in the annotation comments, the original image is still available in the repository for reference. 
+
+An exploratory view of the metadata shows that there is a large amount of missing data. Fortunately, much of the missing data relates to the wider aspects of the patient as opposed to specific information on the lesion. This includes information such as patient history of cancer, living conditions, ethnic background, comorbidities etc. Conversely, data related to the specifics of the lesions within the images is largely all present. In the case of visual analysis and image segmentation, this is the more desirable situation.  There are various possible reasons for this being the case; the nature of patient data anonymisation, and prioritisation in dataset collection etc. However, the reasoning behind the missing data is unclear from the metadata description.<sup>1<sup>
+
 ## References
 
 1. Pacheco, Andre G. C.; Lima, Gustavo R.; Salomão, Amanda S.; Krohling, Breno; Biral, Igor P.; de Angelo, Gabriel G. ; Alves Jr, Fábio  C. R. ; Esgario, José G. M.; Simora, Alana C. ; Castro, Pedro B. C. ; Rodrigues, Felipe B.; Frasson, Patricia H. L. ; Krohling, Renato A.; Knidel, Helder ; Santos, Maria C. S. ; Espírito Santo, Rachel B.; Macedo, Telma L. S. G.; Canuto, Tania R. P. ; de Barros, Luíz F. S. (2020), “PAD-UFES-20: a skin lesion dataset composed of patient data and clinical images collected from smartphones”, Mendeley Data, V1, doi: 10.17632/zr7vgbcyr2.1 
@@ -50,4 +56,6 @@ MEL is difficult to visually differentiate from other lesions, which leads to bi
 
 8.	https://patient.info/doctor/squamous-cell-carcinoma-of-skin
 
-9.	https://patient.info/doctor/malignant-melanoma-of-skin 
+9.	https://patient.info/doctor/malignant-melanoma-of-skin
+
+10. Mendelson T, Sheridan SC, Clary LK. Research with youth of color in low-income communities: Strategies for recruiting and retaining participants. Res Social Adm Pharm. 2021 Jun;17(6):1110-1118. doi: 10.1016/j.sapharm.2020.08.011. Epub 2020 Aug 25. PMID: 32912828; PMCID: PMC7445129. 
